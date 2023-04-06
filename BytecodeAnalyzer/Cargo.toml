@@ -1,0 +1,11 @@
+[package]
+name = "BytecodeAnalyzer"
+version = "0.1.0"
+authors = ["Your Name <zunicoltodu@protonmail.com>"]
+
+[dependencies]
+log = "0.4"
+env_logger = "0.9"
+bytecode = "0.3.0"
+goblin = "0.6.1"
+capstone = "0.11.0"

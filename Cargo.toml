@@ -1,0 +1,11 @@
+[package]
+name = "laravel-enumeration-tool"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.11.6"
+url = "2.2.2"
+clap = "3.0.0-beta.2"
+BytecodeAnalyzer = {path =  "BytecodeAnalyzer/", version = "*"}
